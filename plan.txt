@@ -1,0 +1,11 @@
+Draw Board
+    Create a grid with tiles
+        tiles need logic to hold piece or not (occupied)
+    Place original pieces
+
+pieces
+    draw to Board
+        import correct image
+    generate legal moves
+        display legal moves when clicked
+    
